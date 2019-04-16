@@ -1,0 +1,4 @@
+#Tue Apr 16 22:11:01 EEST 2019
+base.0=/home/outsyder/Development/MobileApps/fitnesspath/platforms/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
