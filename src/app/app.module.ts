@@ -5,6 +5,7 @@ import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
 import { MyApp } from './app.component';
 import { LoseWeightPage } from '../pages/loseweight/loseweight';
 import { GainMusclePage } from '../pages/gainmuscle/gainmuscle';
+import { DailyMotivationPage } from '../pages/dailymotivation/dailymotivation';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -13,7 +14,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   declarations: [
     MyApp,
     LoseWeightPage,
-    GainMusclePage
+    GainMusclePage,
+    DailyMotivationPage
   ],
   imports: [
     BrowserModule,
@@ -23,7 +25,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   entryComponents: [
     MyApp,
     LoseWeightPage,
-    GainMusclePage
+    GainMusclePage,
+    DailyMotivationPage
   ],
   providers: [
     StatusBar,
