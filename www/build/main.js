@@ -131,7 +131,7 @@ var DailyMotivationPage = /** @class */ (function () {
     }
     DailyMotivationPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-home',template:/*ion-inline-start:"/home/outsyder/Development/MobileApps/fitnesspath/src/pages/dailymotivation/dailymotivation.html"*/'<ion-header>\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title> Lose weight </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n\n<h3> Daily Motivation </h3>\n</ion-content>\n'/*ion-inline-end:"/home/outsyder/Development/MobileApps/fitnesspath/src/pages/dailymotivation/dailymotivation.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"/home/outsyder/Development/MobileApps/fitnesspath/src/pages/dailymotivation/dailymotivation.html"*/'<ion-header>\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title> Lose weight </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n\n<h3> Daily Motivation </h3>\n<p>\n  The best view comes after the hardest climb\n</p>\n</ion-content>\n'/*ion-inline-end:"/home/outsyder/Development/MobileApps/fitnesspath/src/pages/dailymotivation/dailymotivation.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */]])
     ], DailyMotivationPage);
